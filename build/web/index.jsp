@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 27/09/2025, 15:53:05
-    Author     : etzan
+
 --%>
 <%@page  import="modelo.puesto" %>
 <%@page  import="modelo.Empleado" %>
